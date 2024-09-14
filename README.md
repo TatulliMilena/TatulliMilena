@@ -22,7 +22,7 @@ Bug Reporting: Identifying and documenting defects found during testing.
 Automated Testing
 
 🤖 Roles and Responsibilities:
-Creation and Maintenance of Scripts: Developing and adjusting scripts to automate manual tests.
+Creation and Maintenance of Scripts: Developing and adjusting scripts to automate manual tests using Java and Selenium WebDriver.
 Execution of Automated Tests: Running automated tests to validate system functionality.
 Bug Reporting: Documenting errors detected during automated tests.
 
